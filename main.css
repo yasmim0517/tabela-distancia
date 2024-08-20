@@ -1,0 +1,14 @@
+table, tr, td{
+    border:solid 1px black;
+    border-collapse: collapse;
+}
+.largura{
+background-color: #ff009d;
+color: black;
+}
+#largColuna{
+    width: 200px;
+}
+body{
+    font-family: Verdana;
+}
