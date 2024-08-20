@@ -1,6 +1,10 @@
 # Projeto- Tabela de distâncias entre capitais brasileiras
 Projeto criado como parte avaliativa da disciplina de Fundamentos de Desenvolvimento ministrda pelo professor Leonardo Rocha.
 ## Índice
+* [Descriçaõ](#Descrição)
+* [Tecnologias](#tecnologias)
+* [Referências](#referências)
+* [Autor(a)](#autora)
  
 ### Descrição
 o projeto consiste na composoição de uma tabela que conta com capitais brasileiras e a distancia entre essas capitais. As capitais constantes nesse projeto são:
@@ -14,7 +18,6 @@ o projeto consiste na composoição de uma tabela que conta com capitais brasile
 * Joao Pessoa
 * Macapá
  
-## Tecnologias
 ## Tecnologias
 * HTML5
 * CSS3
