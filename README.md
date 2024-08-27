@@ -17,6 +17,8 @@ o projeto consiste na composoição de uma tabela que conta com capitais brasile
 * Goiania
 * Joao Pessoa
 * Macapá
+### Resultado do projeto
+![ Resultado final do projeto]()
  
 ## Tecnologias
 * HTML5
