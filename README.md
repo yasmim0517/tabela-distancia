@@ -17,8 +17,21 @@ o projeto consiste na composoição de uma tabela que conta com capitais brasile
 * Goiania
 * Joao Pessoa
 * Macapá
-### Resultado do projeto
-![ Resultado final do projeto]()
+### Resultado do projeto 
+#### Tabela
+*table- O elemento <table> HTML representa dados tabulares — isto é, informações apresentadas em uma tabela bidimensional composta por linhas e colunas de células contendo dados 
+* td-A tag &lt;td&lt; cria uma coluna para inserção de conteúdos, junto a diversas outras colunas em uma mesma linha
+*tr-A etiqueta &lt;td&lt; que significa table data é usada para definir uma célula. As tabelas podem ter cabeçalhos.
+
+Veja uma imagem de parte do codigo, onde é possivel indentificar o uso dos elementos mencionados a cima:
+
+![ imagem dos codigos](img/codigos%20table%20e%20etc.PNG)
+
+* h2-As tags H2 representam os subtítulos. Elas dividem o assunto em tópicos relevantes, suportando o H1.
+Veja uma imagem de parte do codigo, onde é possivel indentificar o uso dos elementos mencionado a cima:
+![imagem do codigo](img/codigo%20%20h2.PNG)
+
+![ Resultado final do projeto](img/resultado-final.PNG)
  
 ## Tecnologias
 * HTML5
